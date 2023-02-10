@@ -1,3 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Layout</string>
+
+    <string name="app_name">Money Changer</string>
+    <string name="country_prompt">Choose A Currency</string>
+
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>JPY</item>
+    </string-array>
 </resources>
