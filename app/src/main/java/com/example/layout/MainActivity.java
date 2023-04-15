@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
                     angka1 = Integer.parseInt(EdUang.getText().toString());
                     String content = EdUang.getText().toString();
                     content = String.valueOf(angka1 * 15.211);
-                    EdHasil.setText("Rp." + content);
+                    EdHasil.setText("Rp. " + content);
                 }
             }
         });
